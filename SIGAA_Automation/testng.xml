@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="suite1">
+	<test name="test1">
+		<classes>
+			<class name="automationFramework.SigaaLoginTC"/>
+			<class name="automationFramework.OfertarTurmas_TC"/>
+		</classes>
+	</test>
+</suite>
+
